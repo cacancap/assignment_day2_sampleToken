@@ -1,0 +1,20 @@
+{
+  "name": "WhiteCat NFT",
+  "symbol": "WHCAT",
+  "description": "First WhiteCat NFT from Bootcamp 2024",
+  "image": "https://i.ibb.co/Xxf1bhp4/whitecat.jpg",
+  "attributes": [
+    { "trait_type": "Color", "value": "Blue" },
+    { "trait_type": "Power", "value": "9000+" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://i.ibb.co/Xxf1bhp4/whitecat.jpg", "type": "image/jpg" }
+    ],
+    "category": "image"
+  },
+  "seller_fee_basis_points": 1000,
+  "creators": [
+    { "address": "52TdESPqh6QvUVjjwcNKnfFZNngLtR1GfP1PoBivgHtB", "share": 100 }
+  ]
+}
